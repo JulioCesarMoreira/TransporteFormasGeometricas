@@ -1,0 +1,11 @@
+Model\Material.class
+View\PrincipalController.class
+Model\FiguraGeo3D.class
+Model\Piramede.class
+Model\Prisma.class
+Application\MainApp.class
+Model\Paralelepipedo.class
+Model\Cilindro.class
+Model\Cone.class
+Model\Esfera.class
+.netbeans_automatic_build
